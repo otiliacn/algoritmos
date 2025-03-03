@@ -1,6 +1,6 @@
 # Algoritmos e Lógica de programação
 Lista de exercícios para estudo e prática de pseudocódigo, utilizando VisualG
-<br>
+<br><br>
 <b>Lista Sequencial</b>
 <ol>
 <li>Ler um número inteiro e mostrar</li>
